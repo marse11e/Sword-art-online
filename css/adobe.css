@@ -1,0 +1,38 @@
+/* large devices wide screen */
+@media only screen and (max-width:1200px){
+    
+}
+/* medium Devices desctops*/
+@media only screen and (max-width:993px){
+          
+}
+/* Small Devices tablets */
+@media only screen and (max-width:768px){
+
+}
+/* Extra small devices (phones)*/
+@media only screen and (max-width:500px){
+    body{
+        color: rgb(8, 139, 253);
+        background-image: url(../img/plan\ 993.jpg);
+        background-size: 1100px;
+        background-repeat: no-repeat;
+        background-position: top;
+        justify-content: center;
+        }
+        .Logo, .Top_menu{
+            margin-right: 5px;
+        }
+        .loading1{
+            justify-content: center;
+            background-image: url(../img/plan\ 993.jpg);
+            background-size: 805px;
+        }
+}
+
+/* Extra small devices (iphone)*/
+@media only screen and (max-width:290px){
+
+}
+
+
